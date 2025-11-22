@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cezar Escandor</h1>
-<h3 align="center">A passionate iT student from Surigao City</h3>
+<h3 align="center">A passionate IT student from Surigao City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yachiruuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="yachiruuuuu" /> </p>
 
